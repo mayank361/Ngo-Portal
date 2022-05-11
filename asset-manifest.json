@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Ngo-Portal_upload/static/css/main.effdcdef.css",
-    "main.js": "/Ngo-Portal_upload/static/js/main.4dddd475.js",
-    "static/media/Ghost.mp4": "/Ngo-Portal_upload/static/media/Ghost.0d1b494b0850cfab8165.mp4",
-    "static/media/image1.gif": "/Ngo-Portal_upload/static/media/image1.c5e2f2c07cd45feb3f61.gif",
-    "index.html": "/Ngo-Portal_upload/index.html",
-    "main.effdcdef.css.map": "/Ngo-Portal_upload/static/css/main.effdcdef.css.map",
-    "main.4dddd475.js.map": "/Ngo-Portal_upload/static/js/main.4dddd475.js.map"
+    "main.css": "/Ngo-Portal/static/css/main.effdcdef.css",
+    "main.js": "/Ngo-Portal/static/js/main.2d3f9af9.js",
+    "static/media/Ghost.mp4": "/Ngo-Portal/static/media/Ghost.0d1b494b0850cfab8165.mp4",
+    "static/media/image1.gif": "/Ngo-Portal/static/media/image1.c5e2f2c07cd45feb3f61.gif",
+    "index.html": "/Ngo-Portal/index.html",
+    "main.effdcdef.css.map": "/Ngo-Portal/static/css/main.effdcdef.css.map",
+    "main.2d3f9af9.js.map": "/Ngo-Portal/static/js/main.2d3f9af9.js.map"
   },
   "entrypoints": [
     "static/css/main.effdcdef.css",
-    "static/js/main.4dddd475.js"
+    "static/js/main.2d3f9af9.js"
   ]
 }
