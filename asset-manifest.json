@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Ngo-Portal/static/css/main.effdcdef.css",
-    "main.js": "/Ngo-Portal/static/js/main.2d3f9af9.js",
-    "static/media/Ghost.mp4": "/Ngo-Portal/static/media/Ghost.0d1b494b0850cfab8165.mp4",
-    "static/media/image1.gif": "/Ngo-Portal/static/media/image1.c5e2f2c07cd45feb3f61.gif",
-    "index.html": "/Ngo-Portal/index.html",
-    "main.effdcdef.css.map": "/Ngo-Portal/static/css/main.effdcdef.css.map",
-    "main.2d3f9af9.js.map": "/Ngo-Portal/static/js/main.2d3f9af9.js.map"
+    "main.css": "/static/css/main.ff4e20bc.css",
+    "main.js": "/static/js/main.d61efaea.js",
+    "static/media/Ghost.mp4": "/static/media/Ghost.0d1b494b0850cfab8165.mp4",
+    "static/media/image1.gif": "/static/media/image1.905db806802fb01ee046.gif",
+    "index.html": "/index.html",
+    "main.ff4e20bc.css.map": "/static/css/main.ff4e20bc.css.map",
+    "main.d61efaea.js.map": "/static/js/main.d61efaea.js.map"
   },
   "entrypoints": [
-    "static/css/main.effdcdef.css",
-    "static/js/main.2d3f9af9.js"
+    "static/css/main.ff4e20bc.css",
+    "static/js/main.d61efaea.js"
   ]
 }
